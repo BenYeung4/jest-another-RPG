@@ -1,14 +1,14 @@
-
-
-//**************************************************************
-//usually run these before, for the npm tests
-
 // const randomNumber = require('../lib/random.js');
 
 // test('gets random number between 1 & 10', () => {
 //     expect(randomNumber()).toBeGreaterThanOrEqual(1);
 //     expect(randomNumber()).toBeLessThanOrEqual(10);
 // });
+
+//**************************************************************
+//usually run these before, for the npm tests
+
+
 
 
 // const math = require('../lib/random.js');
